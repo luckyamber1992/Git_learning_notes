@@ -31,6 +31,7 @@ a seperate commit has to be created to contain all these changes
 git merge --no-ff feature
 when master branch has new commit and master and feature branch has different base, use non-ff merge
 ## git Rebase
+[youtube video about 'rebase and merge'](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 switch to the branch and type **git rebase master**
 - Logics 
 
